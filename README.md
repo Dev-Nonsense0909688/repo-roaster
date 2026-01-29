@@ -34,12 +34,13 @@ It is designed to be fast, readable, and safe to use on both small personal proj
 ```bash
 git clone https://github.com/your-username/repo-roaster.git
 cd repo-roaster
-
+```
 ## Set the token as an environment variable
 # Windows (PowerShell)
 ```bash
 $env:GITHUB_TOKEN="ghp_your_token_here"
-
+```
 # Linux/MacOS
 ```bash
 export GITHUB_TOKEN="ghp_your_token_here"
+```
