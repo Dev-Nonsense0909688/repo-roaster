@@ -44,3 +44,14 @@ $env:GITHUB_TOKEN="ghp_your_token_here"
 ```bash
 export GITHUB_TOKEN="ghp_your_token_here"
 ```
+
+### Basic Usage
+
+```bash
+python repo-roaster.py user/repo
+```
+
+# Example:
+```bash
+python repo-roaster.py torvalds/linux
+```
