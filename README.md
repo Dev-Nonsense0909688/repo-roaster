@@ -55,3 +55,24 @@ python repo-roaster.py user/repo
 ```bash
 python repo-roaster.py torvalds/linux
 ```
+## Reports:
+```bash
+---- Repo Roaster Report ----
+
+Repo: Dev-Nonsense0909688/Remote-Access-Trojan
+Stars: 0
+Last Commit: 6.4 months ago
+
+Roasts:
+- No commits in 6+ months (dead repo energy)
+- No .gitignore (living dangerously)
+- Solo dev detected (bus factor = 1)
+- No LICENSE file (legal jumpscare pending)
+- No tests found
+
+Fix Suggestions:
+- Either archive or revive the repo
+- Add at least basic tests
+
+Final Score: 50/100
+```
