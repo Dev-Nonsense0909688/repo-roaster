@@ -1,6 +1,6 @@
 # Repo Roaster
 
-Repo Roaster is a command-line tool that analyzes GitHub repositories and provides a brutally honest review of their health, structure, and maintenance quality — along with actionable suggestions to improve them.
+Repo Roaster is a command-line tool that analyzes GitHub repositories and provides a brutally honest review of their health, structure, and maintenance quality — along with suggestions to improve them.
 
 It is designed to be fast, readable, and safe to use on both small personal projects and large public repositories.
 
@@ -76,3 +76,4 @@ Fix Suggestions:
 
 Final Score: 50/100
 ```
+
